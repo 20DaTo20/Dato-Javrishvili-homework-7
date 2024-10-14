@@ -1,0 +1,133 @@
+/* Header Styles */
+.header-block {
+    width: 1220px;
+    height: 65px;
+    position: sticky;
+    top: 53px;
+    margin: 0px auto 0px;
+    display: flex;
+    z-index: 100;
+}
+.image {
+    width: 200px;
+}
+.navigation-menu {
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    padding-left: 195px;
+    padding-top: 21.5px;
+    width: 825px;
+    color: #37393F;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 21.78px;
+}
+.last-menu-item {
+    margin-left: 40px;
+    width: 184px;
+    background-color: #6B77E5;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 21.5px;
+    color: #FFFFFF;
+    font-family: "Cabin", sans-serif;
+    font-weight: 600;
+    line-height: 21.87px;
+}
+/* Section Styles */
+.section-div {
+    width: 1120px;
+    height: 510px;
+    margin: 136px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h-5 {
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500; 
+    line-height: 21.78px; 
+}
+.h-1 {
+    font-size: 40px;
+    padding-top: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    line-height: 48.4px;
+    color: #37393F;
+}
+.section-content-box {
+    width: 1120px;
+    height: 383px;
+    margin: 41px auto 0px;
+    display: flex;
+}
+.content-boxes {
+    width: 386px;
+    height: 383px;
+    background-color: #F4F4F4;
+}
+.margin {
+    margin-left: 31px;
+}
+.contenct-box-div {
+    width: 300px;
+    height: 185px;
+    margin: 58px auto 0px;
+}
+.ball {
+    width: 72px;
+    height: 72px;
+    border-radius: 72px;
+    background-color: #40DDB6;
+    margin: 10px 157px 0px;
+    align-content: center;
+}
+.H-2 {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31.75px;
+    font-family: "Poppins", sans-serif;
+}
+.P-1 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26.31px;
+    font-family: "Inter", sans-serif;
+    color: #7D7D7D;
+    padding-top: 16px;
+}
+.H-6 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.78px;
+    color: #6B77E5;
+    padding-top: 37px;
+    font-family: "Inter", sans-serif;
+}
+.dif-ball {
+    background-color: #6B77E5;
+}
+/* Section 2 Styles */
+.section2-div {
+    position: relative;
+}
+.image-2 {
+    width: 100%;
+}
+.inside-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50% ) ;
+    background-color: aqua;
+    width: 511px;
+    height: 270.5px;
+    border: 2px solid #000;
+}
+    
+    
