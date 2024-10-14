@@ -124,10 +124,87 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50% ) ;
-    background-color: aqua;
     width: 511px;
     height: 270.5px;
-    border: 2px solid #000;
+    text-align: center;
 }
+.div-ball {
+    width: 64.5px;
+    height: 64.6px;
+    border-radius: 64.5px;
+    background-color: #6B77E5;
+    margin: 47px auto 0px;
+    align-content: center;
+}
+.h6-text {
+    font-size: 18px ;
+    font-weight: 500;
+    line-height: 21.78px;
+    font-family: "Inter", sans-serif;
+}
+.h2-text {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.4px;
+    font-family: "Poppins", sans-serif;
+    padding-top: 16px;
+}
+.P-2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26.31px;
+    font-family: "Inter", sans-serif;
+    padding-top: 21px;
+}
+/* section 3 styles */
+.section-3div {
+    width: 1220px;
+    height: 659px;
+    background-color: #6B77E5;
+    margin: 130px auto 0px;
     
+}
+.text-div {
+    width: 348px;
+    margin: 0px auto;
+    text-align: center;
+}
+.H-5 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    font-family: "Inter", sans-serif;
+}
+.H-2-text {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.4px;
+    font-family: "Poppins", sans-serif;
+    padding-top: 16px;
+    
+}
+.proffiles-div {
+    width: 1200px;
+    height: 532px;
+    padding-top: 41px;
+    display: flex;
+    
+}
+.left {
+    margin-left: 15.5px;
+}
+.proffile-rel {
+    position: relative;
+}
+.proffile-text {
+    position: absolute;
+    width: 341px;
+    height: 114px;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 396px;
+    left: 22px;
+    text-align: center;
+    
+}
     
